@@ -135,44 +135,6 @@ If no anomalies are detected, review the assumptions.
 
 ---
 
-Frequently Unasked Questions
-
-What is being measured?
-
-Unknown.
-
-What constitutes success?
-
-Continued operation.
-
-Why does the corridor exist?
-
-The corridor is outside the scope of the corridor.
-
-Why are there witnesses?
-
-The survey records their presence.
-
-It does not claim responsibility.
-
----
-
-Changelog
-
-Revision 47
-
-Minor procedural corrections.
-
-Revision 48
-
-Not available.
-
-Revision 49
-
-Added note regarding the absence of Revision 48.
-
----
-
 License
 
 Permission is granted to use, modify, distribute, archive, fragment, mirror, or misinterpret this repository.
